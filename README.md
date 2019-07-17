@@ -4,7 +4,7 @@ Lo importante de este proyecto, es la forma de integrar archivos de JavaScript e
 
 Para ver la función utilizada, revisar el archivo:
 
-src/app/components/lupa/lupa.component.ts
+`src/app/components/lupa/lupa.component.ts`
 
 PD: El archivo de estilo sigue siendo el de la aplicación main
 
