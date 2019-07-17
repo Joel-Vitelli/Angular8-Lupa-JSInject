@@ -1,3 +1,13 @@
+# Sobre la lupa
+
+Lo importante de este proyecto, es la forma de integrar archivos de JavaScript externos, individualmente en cada componente y no en el inicio principal de nuestra aplicación (index.html). De esta forma, podemos tener separados todos los scrips en su correspondiente componente y que carguen en su inicio.
+
+Para ver la función utilizada, revisar el archivo:
+
+src/app/components/lupa/lupa.component.ts
+
+PD: El archivo de estilo sigue siendo el de la aplicación main
+
 # LupaAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
